@@ -139,7 +139,7 @@ function attachParser(parser, options) {
       type: 'inlineMath',
       value: content,
       data: {
-        hName: 'span',
+        hName: 'math',
         hProperties: {
           className: classList.concat(
             double && options.inlineMathDouble ? [mathDisplay] : []

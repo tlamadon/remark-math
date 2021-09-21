@@ -196,8 +196,8 @@ function attachParser(parser) {
       type: 'math',
       value: content,
       data: {
-        hName: 'div',
-        hProperties: {className: classList.concat()},
+        hName: 'math',
+        hProperties: {className: classList.concat(), block:true},
         hChildren: [{type: 'text', value: content}]
       }
     })
