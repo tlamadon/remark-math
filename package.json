@@ -5,7 +5,7 @@
   "bugs": "https://github.com/remarkjs/remark-math/issues",
   "author": "Junyoung Choi <fluke8259@gmail.com> (https://rokt33r.github.io)",
   "contributors": [
-    "Thibaut Lamadon <thibaut.lamadon@gmail.com> (https://lamadon.com)"s
+    "Thibaut Lamadon <thibaut.lamadon@gmail.com> (https://lamadon.com)"
   ],
   "devDependencies": {
     "dtslint": "^3.0.0",
@@ -67,5 +67,8 @@
     "plugins": [
       "preset-wooorm"
     ]
+  },
+  "dependencies": {
+    "remark-math": "file:packages/remark-math"
   }
 }

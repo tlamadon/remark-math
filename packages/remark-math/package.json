@@ -1,6 +1,6 @@
 {
-  "name": "remark-math",
-  "version": "3.0.1",
+  "name": "@tlamadon/remark-math",
+  "version": "1.0.0",
   "description": "remark plugin to parse and stringify math",
   "license": "MIT",
   "keywords": [
@@ -15,16 +15,10 @@
     "latex",
     "tex"
   ],
-  "repository": "https://github.com/remarkjs/remark-math/tree/main/packages/remark-math",
-  "bugs": "https://github.com/remarkjs/remark-math/issues",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/unified"
-  },
-  "author": "Junyoung Choi <fluke8259@gmail.com> (https://rokt33r.github.io)",
+  "repository": "https://github.com/tlamadon/remark-math/tree/main/packages/remark-math",
+  "author": "Thibaut Lamadon <thibaut.lamadon@gmail.com> (https://www.lamadon.com)",
   "contributors": [
-    "Junyoung Choi <fluke8259@gmail.com> (https://rokt33r.github.io)",
-    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
+    "Thibaut Lamadon <thibaut.lamadon@gmail.com> (https://www.lamadon.com)"
   ],
   "files": [
     "index.js",
